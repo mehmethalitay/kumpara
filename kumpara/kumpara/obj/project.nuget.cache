@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "xmNMHwBn+j856P0H+bf46Wuu7xGfvLfyvzAIeH8TA2f/78RARHm3yO6vKibndq17MYXK6sL89IxU/34NFssvcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc\\source\\repos\\kumpara\\kumpara\\kumpara.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\sqlite\\3.13.0\\sqlite.3.13.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\stub.system.data.sqlite.core.netframework\\1.0.116\\stub.system.data.sqlite.core.netframework.1.0.116.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.116\\stub.system.data.sqlite.core.netstandard.1.0.116.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.data.sqlite.core\\1.0.116\\system.data.sqlite.core.1.0.116.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "'Stub.System.Data.SQLite.Core.NetFramework 1.0.116' paketi, proje hedef çerçevesi 'net6.0-windows7.0' yerine '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' kullanılarak geri yüklendi. Bu paket projenizle tamamen uyumlu olmayabilir.",
+      "libraryId": "Stub.System.Data.SQLite.Core.NetFramework",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}
